@@ -1,4 +1,4 @@
-package com.mda.horizontallistview.demo.controler;
+package com.mda.grouplistview.demo.controler;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -7,14 +7,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.mda.horizontallistview.adapters.GroupViewHolder;
-import com.mda.horizontallistview.demo.R;
-import com.mda.horizontallistview.adapters.AbstractGroupAdapter;
-import com.mda.horizontallistview.demo.model.dto.Cards;
-import com.mda.horizontallistview.demo.model.dto.TypeTemplate;
-import com.mda.horizontallistview.views.HorizontalVerticalListView;
-import com.mda.horizontallistview.adapters.ViewHolder;
-import com.mda.horizontallistview.demo.model.DataManager;
+import com.mda.grouplistview.adapters.GroupViewHolder;
+import com.mda.grouplistview.demo.R;
+import com.mda.grouplistview.adapters.AbstractGroupAdapter;
+import com.mda.grouplistview.demo.model.dto.Cards;
+import com.mda.grouplistview.demo.model.dto.TypeTemplate;
+import com.mda.grouplistview.views.HorizontalVerticalListView;
+import com.mda.grouplistview.adapters.ViewHolder;
+import com.mda.grouplistview.demo.model.DataManager;
 
 import java.util.ArrayList;
 import java.util.TreeMap;

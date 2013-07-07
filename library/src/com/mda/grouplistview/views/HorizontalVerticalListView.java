@@ -1,11 +1,11 @@
-package com.mda.horizontallistview.views;
+package com.mda.grouplistview.views;
 
 import android.content.Context;
 import android.util.AttributeSet;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
-import com.mda.horizontallistview.adapters.AbstractGroupAdapter;
+import com.mda.grouplistview.adapters.AbstractGroupAdapter;
 
 /**
  * Created by Dmitriy Manzhosov on 7/6/13.

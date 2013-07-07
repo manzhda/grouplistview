@@ -1,6 +1,6 @@
-package com.mda.horizontallistview.adapters;
+package com.mda.grouplistview.adapters;
 
-import com.mda.horizontallistview.views.HorizontalListView;
+import com.mda.grouplistview.views.HorizontalListView;
 
 public class GroupViewHolder<C, S> extends ViewHolder {
     HorizontalListView mHorizontalListView;

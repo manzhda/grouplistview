@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
             />
 
-    <com.mda.horizontallistview.views.DisallowInterceptHorizontalListView
+    <com.mda.grouplistview.views.DisallowInterceptHorizontalListView
         android:id="@+id/list_horizontal_view_sub_item_list_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

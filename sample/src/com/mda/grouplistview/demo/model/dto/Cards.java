@@ -1,4 +1,4 @@
-package com.mda.horizontallistview.demo.model.dto;
+package com.mda.grouplistview.demo.model.dto;
 
 /**
  * Created by Dmitriy Manzhosov on 7/6/13.

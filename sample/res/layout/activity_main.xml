@@ -2,7 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
         >
-    <com.mda.horizontallistview.views.HorizontalVerticalListView
+    <com.mda.grouplistview.views.HorizontalVerticalListView
             android:id="@+id/listView1"
             android:layout_width="match_parent"
             android:layout_height="match_parent"

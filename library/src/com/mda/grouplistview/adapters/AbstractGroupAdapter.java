@@ -1,4 +1,4 @@
-package com.mda.horizontallistview.adapters;
+package com.mda.grouplistview.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,8 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.FrameLayout;
 
-import com.mda.horizontallistview.R;
-import com.mda.horizontallistview.views.HorizontalListView;
+import com.mda.grouplistview.R;
+import com.mda.grouplistview.views.HorizontalListView;
 
 import java.util.ArrayList;
 import java.util.List;

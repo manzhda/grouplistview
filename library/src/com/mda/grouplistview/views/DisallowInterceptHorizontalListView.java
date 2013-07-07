@@ -1,4 +1,4 @@
-package com.mda.horizontallistview.views;
+package com.mda.grouplistview.views;
 
 import android.content.Context;
 import android.util.AttributeSet;

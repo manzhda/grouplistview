@@ -1,7 +1,7 @@
-package com.mda.horizontallistview.demo.model;
+package com.mda.grouplistview.demo.model;
 
-import com.mda.horizontallistview.demo.model.dto.Cards;
-import com.mda.horizontallistview.demo.model.dto.TypeTemplate;
+import com.mda.grouplistview.demo.model.dto.Cards;
+import com.mda.grouplistview.demo.model.dto.TypeTemplate;
 
 import java.util.ArrayList;
 import java.util.Random;

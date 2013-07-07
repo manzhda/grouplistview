@@ -1,4 +1,4 @@
-package com.mda.horizontallistview.adapters;
+package com.mda.grouplistview.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
